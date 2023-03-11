@@ -1,0 +1,183 @@
+.projectsCont{
+    list-style: none;
+    padding-left: 0;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(1fr);
+    grid-row-gap: 50px;
+}
+
+.title{
+    font-size: 32px;
+    font-family: Notable;
+    color: #fff;
+    padding-left: 20px;
+    padding-top: 10px;
+    z-index: 3;
+    position: absolute;
+}
+
+.overlay{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0;
+    opacity: 0;
+    background-color: #00000075;
+    display: flex;
+    align-items: flex-end;
+}
+
+.overlayText{
+    color: #fff;
+    padding: 0 15px 30px 15px
+}
+
+.webstudio{
+    background-image: url('../../../assets/images/webstudio.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    max-width: 264px;
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.webstudio:hover .overlay,
+.webstudio:focus .overlay {
+    opacity: 1;
+    transition: all 0.4s;
+}
+
+.cinema {
+    background-image: url('../../../assets/images/cinema.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    max-width: 264px;
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.cinema:hover .overlay,
+.cinema:focus .overlay {
+    opacity: 1;
+    transition: all 0.4s;
+}
+
+.giftstore {
+    background-image: url('../../../assets/images/giftstore.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    max-width: 264px;
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.giftstore:hover .overlay,
+.giftstore:focus .overlay {
+    opacity: 1;
+    transition: all 0.4s;
+}
+
+.phonebook {
+    background-image: url('../../../assets/images/phonebook.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    max-width: 264px;
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.phonebook:hover .overlay,
+.phonebook:focus .overlay {
+    opacity: 1;
+    transition: all 0.4s;
+}
+
+.blog{
+    background-image: url('../../../assets/images/myblog.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    max-width: 264px;
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.blog:hover .overlay,
+.blog:focus .overlay {
+    opacity: 1;
+    transition: all 0.4s;
+}
+
+.icecream {
+    background-image: url('../../../assets/images/icecream.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    max-width: 264px;
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.icecream:hover .overlay,
+.icecream:focus .overlay {
+    opacity: 1;
+    transition: all 0.4s;
+}
+
+.paws {
+    background-image: url('../../../assets/images/paws.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    max-width: 264px;
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.paws:hover .overlay,
+.paws:focus .overlay {
+    opacity: 1;
+    transition: all 0.4s;
+}
+
+.imageShare {
+    background-image: url('../../../assets/images/imageShare.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    max-width: 264px;
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+.imageShare:hover .overlay,
+.imageShare:focus .overlay {
+    opacity: 1;
+    transition: all 0.4s;
+}
+
+
+.process{
+    position: absolute;
+    right: 0;
+    top: 15px;
+    color: #fff;
+    border: 1px solid #ff5277;
+    background-color: #ff5277;
+    border-right: none;
+    padding: 2px 10px 2px 5px;
+}

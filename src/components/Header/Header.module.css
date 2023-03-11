@@ -1,0 +1,41 @@
+.headerCont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.imgCont{
+    display: flex;
+    align-items: center;
+}
+
+.image{
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 10px;
+}
+
+.name{
+    font-family: Notable;
+    color: #fff;
+    font-size: 18px;
+}
+
+.linkCont{
+    display: flex;
+    column-gap: 10px;
+    font-size: 18px;
+}
+
+.link{
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 5px solid #ff5277;
+    padding-bottom: 5px;
+}
+
+.linkNumber{
+    font-weight: bold;
+}

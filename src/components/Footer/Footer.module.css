@@ -1,0 +1,34 @@
+.columnHeader{
+    color: #fff;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.footerCont{
+    display: flex;
+    justify-content: space-between;
+}
+
+.copyCont{
+    display: flex;
+    flex-direction: column;
+}
+
+.socialCont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.iconCont{
+    display: flex;
+    column-gap: 30px;
+}
+
+.footerlink{
+    color: #fff;
+}
+
+.footerlink:hover, .footerlink:focus{
+    text-decoration: none;
+}

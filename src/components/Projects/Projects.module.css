@@ -1,0 +1,44 @@
+.hello{
+    color: #ff5277;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.title{
+    color: #fff;
+    font-family: Notable;
+    font-size: 72px;
+    padding: 0;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.subtitle{
+    color: #fff;
+    font-size: 32px;
+    font-weight: 300;
+}
+
+.sectionName{
+    color: #fff;
+    font-size: 38px;
+    font-weight: 700;
+    font-family: Notable;
+}
+
+.projectsCont{
+    margin-top: 60px;
+}
+
+.textLink {
+    color: #ff5277;
+}
+
+.textLink:hover,
+.textLink:focus {
+    background-color: #ff5277;
+    color: #fff;
+    text-decoration: none;
+}
