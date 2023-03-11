@@ -14,8 +14,8 @@ const Footer = () => {
                     <a className={css.footerlink} href="tel:+380931848293">+380931848293</a>
                 </div>
                 <div className={css.iconCont}>
-                    <a className={css.iconlink} href=""><img src={require('../../assets/images/tg.png')} width='30' alt="" /></a>
-                    <a className={css.iconlink} href=""><img src={require('../../assets/images/git.png')} width='30' alt="" /></a>
+                    <a className={css.iconlink} href="/"><img src={require('../../assets/images/tg.png')} width='30' alt="" /></a>
+                    <a className={css.iconlink} href="/"><img src={require('../../assets/images/git.png')} width='30' alt="" /></a>
                 </div>
             </div>
         </Container>
