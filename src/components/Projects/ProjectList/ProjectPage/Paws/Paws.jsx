@@ -1,7 +1,7 @@
 const Paws = () => {
     return (
         <>
-            Hi
+            Hi there
         </>
     )
 }
