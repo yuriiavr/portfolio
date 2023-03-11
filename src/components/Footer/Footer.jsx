@@ -15,7 +15,7 @@ const Footer = () => {
                 </div>
                 <div className={css.iconCont}>
                     <a className={css.iconlink} href="https://yuriiavr.github.io/portfolio/"><img src={require('../../assets/images/tg.png')} width='30' alt="" /></a>
-                    <a className={css.iconlink} href="https://yuriiavr.github.io/portfolio/"><img src={require('../../assets/images/git.png')} width='30' alt="" /></a>
+                    <a className={css.iconlink} href="https://github.com/yuriiavr"><img src={require('../../assets/images/git.png')} width='30' alt="" /></a>
                 </div>
             </div>
         </Container>
