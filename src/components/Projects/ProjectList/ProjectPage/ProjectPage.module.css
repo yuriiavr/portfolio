@@ -8,6 +8,22 @@
     margin-bottom: 0;
 }
 
+.attention{
+    background-color: #ff5277;
+    color: #fff;
+    font-size: 22px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.lunaTitle{
+    color: #fff;
+    font-family: Notable;
+    font-size: 72px;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
 .titleColor {
     color: #2196F3;
 }
@@ -29,7 +45,7 @@
 
 .sub {
     color: #fff;
-    font-size: 32px;
+    font-size: 28px;
 }
 
 .textLink {

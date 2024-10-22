@@ -34,8 +34,8 @@
     padding: 0 15px 30px 15px
 }
 
-.webstudio{
-    background-image: url('../../../assets/images/webstudio.jpg');
+.luna{
+    background-image: url('../../../assets/images/luna.png');
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -45,8 +45,8 @@
     overflow: hidden;
 }
 
-.webstudio:hover .overlay,
-.webstudio:focus .overlay {
+.luna:hover .overlay,
+.luna:focus .overlay {
     opacity: 1;
     transition: all 0.4s;
 }
