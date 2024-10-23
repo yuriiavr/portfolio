@@ -16,6 +16,14 @@
     margin-bottom: 20px;
 }
 
+.mark{
+    background-color: #ff5277;
+    color: #fff;
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
 .lunaTitle{
     color: #fff;
     font-family: Notable;
