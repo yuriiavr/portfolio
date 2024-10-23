@@ -64,11 +64,11 @@ const ProjectList = () => {
                     </div>
                 </Link>
             </li>
-            <li className={css.icecream}>
-                <Link to={`/projects/icecream`}>
-                    <span className={css.title}>IceCream</span>
+            <li className={css.myPlayer}>
+                <Link to={`/projects/myPlayer`}>
+                    <span className={css.title}>MyPlayer</span>
                     <div className={css.overlay}>
-                        <span className={css.overlayText}>HTML, CSS, JavaScript, Team Work</span>
+                        <span className={css.overlayText}>HTML, CSS, JavaScript</span>
                     </div>
                 </Link>
             </li>

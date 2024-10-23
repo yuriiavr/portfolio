@@ -6,7 +6,7 @@ const Footer = () => {
         <Container>
             <div className={css.footerCont}>
                 <div className={css.copyCont}>
-                    <span className={css.columnHeader}>© 2021–2023</span>
+                    <span className={css.columnHeader}>© 2021–2024</span>
                     <a className={css.footerlink} href="https://yuriiavr.github.io/portfolio/">Yurii Avramets</a>
                 </div>
                 <div className={css.socialCont}>

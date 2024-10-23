@@ -119,8 +119,8 @@
     transition: all 0.4s;
 }
 
-.icecream {
-    background-image: url('../../../assets/images/icecream.jpg');
+.myPlayer {
+    background-image: url('../../../assets/images/myPlayer.png');
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -130,8 +130,8 @@
     overflow: hidden;
 }
 
-.icecream:hover .overlay,
-.icecream:focus .overlay {
+.myPlayer:hover .overlay,
+.myPlayer:focus .overlay {
     opacity: 1;
     transition: all 0.4s;
 }
