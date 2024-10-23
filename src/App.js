@@ -3,7 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import MainLayout from './layouts/MainLaout';
 import Homepage from './pages/Home/Home';
 import Luna from './components/Projects/ProjectList/ProjectPage/Luna/Luna';
-import GiftStore from './components/Projects/ProjectList/ProjectPage/GiftStore/GiftStore';
+import EmailSender from './components/Projects/ProjectList/ProjectPage/EmailSender/EmailSender';
 import Cinema from './components/Projects/ProjectList/ProjectPage/Cinema/Cinema';
 import Phonebook from './components/Projects/ProjectList/ProjectPage/PhoneBook/Phonebook';
 import Blog from './components/Projects/ProjectList/ProjectPage/Blog/Blog';
@@ -18,7 +18,7 @@ function App() {
         <Route path='/' element={<MainLayout />}>
           <Route path='/' element={<Homepage />} />
           <Route path='/projects/luna' element={<Luna />} />
-          <Route path='/projects/giftstore' element={<GiftStore />} />
+          <Route path='/projects/emailSender' element={<EmailSender />} />
           <Route path='/projects/icecream' element={<IceCream />} />
           <Route path='/projects/cinema' element={<Cinema />} />
           <Route path='/projects/phonebook' element={<Phonebook />} />

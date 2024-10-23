@@ -68,8 +68,8 @@
     transition: all 0.4s;
 }
 
-.giftstore {
-    background-image: url('../../../assets/images/giftstore.jpg');
+.emailSender {
+    background-image: url('../../../assets/images/emailSender.jpg');
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -79,8 +79,8 @@
     overflow: hidden;
 }
 
-.giftstore:hover .overlay,
-.giftstore:focus .overlay {
+.emailSender:hover .overlay,
+.emailSender:focus .overlay {
     opacity: 1;
     transition: all 0.4s;
 }
