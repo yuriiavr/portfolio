@@ -7,7 +7,7 @@ import EmailSender from './components/Projects/ProjectList/ProjectPage/EmailSend
 import Cinema from './components/Projects/ProjectList/ProjectPage/Cinema/Cinema';
 import Phonebook from './components/Projects/ProjectList/ProjectPage/PhoneBook/Phonebook';
 import Blog from './components/Projects/ProjectList/ProjectPage/Blog/Blog';
-import MyPlayer from './components/Projects/ProjectList/ProjectPage/MyPlayer/MyPlayer';
+import Melomaniac from './components/Projects/ProjectList/ProjectPage/Melomaniac/Melomaniac';
 import Paws from './components/Projects/ProjectList/ProjectPage/Paws/Paws';
 import ImageShare from './components/Projects/ProjectList/ProjectPage/ImageShare/ImageShare';
 
@@ -19,7 +19,7 @@ function App() {
           <Route path='/' element={<Homepage />} />
           <Route path='/projects/luna' element={<Luna />} />
           <Route path='/projects/emailSender' element={<EmailSender />} />
-          <Route path='/projects/myPlayer' element={<MyPlayer />} />
+          <Route path='/projects/melomaniac' element={<Melomaniac />} />
           <Route path='/projects/cinema' element={<Cinema />} />
           <Route path='/projects/phonebook' element={<Phonebook />} />
           <Route path='/projects/blog' element={<Blog />} />

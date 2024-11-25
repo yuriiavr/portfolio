@@ -52,7 +52,7 @@
 }
 
 .cinema {
-    background-image: url('../../../assets/images/cinema.jpg');
+    background-image: url('../../../assets/images/planner.png');
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -69,7 +69,7 @@
 }
 
 .emailSender {
-    background-image: url('../../../assets/images/emailSender.jpg');
+    background-image: url('../../../assets/images/emailSender.png');
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -103,7 +103,7 @@
 }
 
 .blog{
-    background-image: url('../../../assets/images/myblog.jpg');
+    background-image: url('../../../assets/images/voicehelper.png');
     background-position: center;
     background-size: cover;
     height: 300px;
