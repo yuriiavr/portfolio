@@ -13,6 +13,14 @@ const ProjectList = () => {
                     </div>
                 </Link>
             </li>
+            <li className={css.youFinance}>
+                <Link to={`/projects/balans`}>
+                    <span className={css.title}>Balans</span>
+                    <div className={css.overlay}>
+                        <span className={css.overlayText}>React Native</span>
+                    </div>
+                </Link>
+            </li>
             <li className={css.luna}>
                 <Link to={`/projects/luna`}>
                     <span className={css.title}>LUNA</span>
@@ -21,8 +29,8 @@ const ProjectList = () => {
                     </div>
                 </Link>
             </li>
-            <li className={css.cinema}>
-                <Link to={`/projects/cinema`}>
+            <li className={css.deadlines}>
+                <Link to={`/projects/deadlines`}>
                     <span className={css.title}>DeadLines</span>
                     <div className={css.overlay}>
                         <span className={css.overlayText}>JavaScript, Electron</span>

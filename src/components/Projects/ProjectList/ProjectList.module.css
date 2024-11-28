@@ -51,8 +51,8 @@
     transition: all 0.4s;
 }
 
-.cinema {
-    background-image: url('../../../assets/images/planner.png');
+.balans {
+    background-image: url('../../../assets/images/balans.png');
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -62,8 +62,8 @@
     overflow: hidden;
 }
 
-.cinema:hover .overlay,
-.cinema:focus .overlay {
+.balans:hover .overlay,
+.balans:focus .overlay {
     opacity: 1;
     transition: all 0.4s;
 }
@@ -153,8 +153,8 @@
     transition: all 0.4s;
 }
 
-.imageShare {
-    background-image: url('../../../assets/images/imageShare.jpg');
+.deadlines {
+    background-image: url('../../../assets/images/planner.png');
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -164,8 +164,8 @@
     overflow: hidden;
 }
 
-.imageShare:hover .overlay,
-.imageShare:focus .overlay {
+.deadlines:hover .overlay,
+.deadlines:focus .overlay {
     opacity: 1;
     transition: all 0.4s;
 }

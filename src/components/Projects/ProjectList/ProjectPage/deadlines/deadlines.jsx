@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 import Container from "../../../../Container/Container"
 import css from '../ProjectPage.module.css'
 
-const imageShare = () => {
+const deadlines = () => {
     return (
         <Container>
              <div className={css.cont}>
@@ -17,4 +17,4 @@ const imageShare = () => {
     )
 }
 
-export default imageShare
+export default deadlines
