@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 import Container from "../../../../Container/Container"
 import css from '../ProjectPage.module.css'
 
-const Webstudio = () => {
+const Luna = () => {
     return (
         <Container>
             <div className={css.cont}>
@@ -33,4 +33,4 @@ const Webstudio = () => {
     )
 }
 
-export default Webstudio
+export default Luna

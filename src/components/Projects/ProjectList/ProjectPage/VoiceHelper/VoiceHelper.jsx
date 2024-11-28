@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 import Container from "../../../../Container/Container"
 import css from '../ProjectPage.module.css'
 
-const Blog = () => {
+const VoiceHelper = () => {
     return (
         <Container>
             <div className={css.cont}>
@@ -24,4 +24,4 @@ const Blog = () => {
     )
 }
 
-export default Blog
+export default VoiceHelper

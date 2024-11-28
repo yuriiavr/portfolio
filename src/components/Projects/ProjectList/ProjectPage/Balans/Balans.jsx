@@ -1,8 +1,8 @@
-const Cinema = () => {
+const Balans = () => {
     return (
         <>
         </>
     )
 }
 
-export default Cinema
+export default Balans

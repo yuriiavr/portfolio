@@ -32,10 +32,15 @@
 .link{
     color: #fff;
     text-decoration: none;
-    border-bottom: 5px solid #ff5277;
     padding-bottom: 5px;
+    font-family: 'Oswald';
 }
 
 .linkNumber{
     font-weight: bold;
 }
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../../assets/fonts/Oswald.ttf');
+  }

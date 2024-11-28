@@ -13,7 +13,7 @@ const ProjectList = () => {
                     </div>
                 </Link>
             </li>
-            <li className={css.youFinance}>
+            <li className={css.balans}>
                 <Link to={`/projects/balans`}>
                     <span className={css.title}>Balans</span>
                     <div className={css.overlay}>
@@ -46,7 +46,7 @@ const ProjectList = () => {
                 </Link>
             </li>
             <li className={css.blog}>
-                <Link to={`/projects/blog`}>
+                <Link to={`/projects/VoiceHelper`}>
                     <span className={css.process}>In process</span>
                     <span className={css.title}>Voice <br /> Helper</span>
                     <div className={css.overlay}>
