@@ -1,40 +1,33 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1533de13.css",
-    "main.js": "/portfolio/static/js/main.072794e8.js",
+    "main.css": "/portfolio/static/css/main.c84be74c.css",
+    "main.js": "/portfolio/static/js/main.75c2d9ee.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/melomaniac_prev.png": "/portfolio/static/media/melomaniac_prev.41618456abffd25c54d4.png",
     "static/media/melomaniac_prev3.png": "/portfolio/static/media/melomaniac_prev3.e9a74704e5edaed725d4.png",
     "static/media/melomaniac_prev2.png": "/portfolio/static/media/melomaniac_prev2.16c29d342c534dbbfc8e.png",
-    "static/media/blog-main_preview.jpg": "/portfolio/static/media/blog-main_preview.241aee1ed484733858d1.jpg",
-    "static/media/blog-homepage_preview.jpg": "/portfolio/static/media/blog-homepage_preview.37cd87195f0d75c0178e.jpg",
     "static/media/luna_preview.png": "/portfolio/static/media/luna_preview.0df6d7b70cb53f1156e7.png",
     "static/media/findmates.png": "/portfolio/static/media/findmates.4deb12cc5bdaecc6a04e.png",
-    "static/media/blog-post_preview.jpg": "/portfolio/static/media/blog-post_preview.426d2a1e639fd545e41d.jpg",
-    "static/media/imageShare_preview.jpg": "/portfolio/static/media/imageShare_preview.227291a103ac489f8e5b.jpg",
+    "static/media/Резюме - Юрій Аврамець.pdf": "/portfolio/static/media/Резюме - Юрій Аврамець.8af7e6c4f9dfe2e51b12.pdf",
+    "static/media/Resume - Yurii Avramets.pdf": "/portfolio/static/media/Resume - Yurii Avramets.0a88aecc3de15ede5394.pdf",
     "static/media/planner.png": "/portfolio/static/media/planner.0e6f86d2b8a96fc7ec1c.png",
     "static/media/passwordManager.png": "/portfolio/static/media/passwordManager.b7e805b7cb5a188f0d9f.png",
-    "static/media/blog-createpost_preview.jpg": "/portfolio/static/media/blog-createpost_preview.0fa7cb45b17b24671859.jpg",
     "static/media/myPlayer.png": "/portfolio/static/media/myPlayer.45b99fc483aa291c1c3b.png",
-    "static/media/Yurii_Avramets_Full-Stack-Dev.pdf": "/portfolio/static/media/Yurii_Avramets_Full-Stack-Dev.43ca52cf2520bcf0e5c4.pdf",
     "static/media/emailSender.png": "/portfolio/static/media/emailSender.865f62d4c8d98b501f1a.png",
     "static/media/voicehelper.png": "/portfolio/static/media/voicehelper.6cda370ae8fb6754f5c1.png",
     "static/media/luna.png": "/portfolio/static/media/luna.5cd5e1ad14f79f5fc03b.png",
-    "static/media/phonebook_preview.jpg": "/portfolio/static/media/phonebook_preview.29beb13c4e877989906d.jpg",
     "static/media/Oswald.ttf": "/portfolio/static/media/Oswald.7cecd0da606d25b0905d.ttf",
     "static/media/my_photo.jpg": "/portfolio/static/media/my_photo.e6092806be6d5cf2652a.jpg",
-    "static/media/blog-signup_preview.jpg": "/portfolio/static/media/blog-signup_preview.e4fbee46eca67b0bf5c9.jpg",
     "static/media/emailSender_preview.png": "/portfolio/static/media/emailSender_preview.4e661e18303f41e8f8e9.png",
     "static/media/phonebook.jpg": "/portfolio/static/media/phonebook.ad983a8db8e7244b2ae1.jpg",
     "static/media/emailSender_preview2.png": "/portfolio/static/media/emailSender_preview2.d56b22ed3bedfa3b198c.png",
     "static/media/tg.png": "/portfolio/static/media/tg.0999a5124b2591d75c1a.png",
     "index.html": "/portfolio/index.html",
-    "main.1533de13.css.map": "/portfolio/static/css/main.1533de13.css.map",
-    "main.072794e8.js.map": "/portfolio/static/js/main.072794e8.js.map",
+    "main.c84be74c.css.map": "/portfolio/static/css/main.c84be74c.css.map",
+    "main.75c2d9ee.js.map": "/portfolio/static/js/main.75c2d9ee.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1533de13.css",
-    "static/js/main.072794e8.js"
+    "static/css/main.c84be74c.css",
+    "static/js/main.75c2d9ee.js"
   ]
 }
