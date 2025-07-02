@@ -51,8 +51,8 @@
     transition: all 0.4s;
 }
 
-.balans {
-    background-image: url('../../../assets/images/balans.png');
+.passwordManager {
+    background-image: url('../../../assets/images/passwordManager.png');
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -62,8 +62,8 @@
     overflow: hidden;
 }
 
-.balans:hover .overlay,
-.balans:focus .overlay {
+.passwordManager:hover .overlay,
+.passwordManager:focus .overlay {
     opacity: 1;
     transition: all 0.4s;
 }

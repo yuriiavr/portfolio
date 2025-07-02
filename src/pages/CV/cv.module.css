@@ -1,114 +1,116 @@
-.link{
-    color: #ff5277;
-    font-size: 22px;
-    text-align: center;
-    margin-bottom: 20px;
-    font-family: 'Oswald';
+.link {
+  color: #ff5277;
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: 'Oswald';
 }
 
-.link:hover, .link:focus{
-    background-color: #ff5277;
-    color: #fff;
-    text-decoration: none;
+.link:hover,
+.link:focus {
+  background-color: #ff5277;
+  color: #fff;
+  text-decoration: none;
 }
 
-.cvCont{
-    display: flex;
+.cvCont {
+  display: flex;
 }
 
-.sidebar{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-right: 30px;
-    position: relative;
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 30px;
+  position: relative;
 }
 
-.myPhoto{
-    max-width: 300px;
+.myPhoto {
+  max-width: 300px;
 }
 
-.name{
-    font-size: 42px;
-    font-family: 'Oswald';
+.name {
+  font-size: 42px;
+  font-family: 'Oswald';
 }
 
-.position{
-    font-family: 'Oswald';
+.position {
+  font-family: 'Oswald';
 }
 
-.location{
-    font-family: 'Oswald';
+.location {
+  font-family: 'Oswald';
 }
 
-.contacts{
-    list-style: none;
-    padding-left: 0;
+.contacts {
+  list-style: none;
+  padding-left: 0;
 }
 
-.skills{
-    padding-left: 0;
-    list-style: none;
+.skills {
+  padding-left: 0;
+  list-style: none;
 }
 
-.skills li{
-    margin-bottom: 5px;
+.skills li {
+  margin-bottom: 5px;
 }
 
-.aboutMe{
-    font-size: 28px;
-    font-family: 'Oswald';
-    position: relative;
+.aboutMe {
+  font-size: 28px;
+  font-family: 'Oswald';
+  position: relative;
 }
 
-.download{
-    max-width: 30px;
+.download {
+  max-width: 30px;
 }
 
-.downloadBtn{
-    background-color: #ff5277;
-    color: #fff;
-    border-radius: 20px;
-    text-decoration: none;
-    padding: 5px 10px;
-    font-size: 18px;
-    display: flex;
-    align-items: center;
-    position: absolute;
-    top: 5px;
-    left: 5px;
+.downloadBtn {
+  background-color: #ff5277;
+  color: #fff;
+  border-radius: 20px;
+  text-decoration: none;
+  padding: 5px 10px;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 180px;
+  margin: 0 auto;
+  margin-top: 30px;
 }
 
-.aboutMe .link{
-    font-size: 28px;
+.aboutMe .link {
+  font-size: 28px;
 }
 
-.workDesc{
-    display: flex;
-    flex-direction: column;
-    padding-bottom: 20px;
-    border-bottom: 1px solid #fff;
+.workDesc {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #fff;
 }
 
-.workDesc span{
-    margin-bottom: 10px;
+.workDesc span {
+  margin-bottom: 10px;
 }
 
-.title{
-    background-color: #ff5277;
-    color: #fff;
-    text-decoration: none;
-    font-size: 38px;
-    margin-bottom: 0;
-    text-align: center;
-    font-family: 'Oswald';
+.title {
+  background-color: #ff5277;
+  color: #fff;
+  text-decoration: none;
+  font-size: 38px;
+  margin-bottom: 0;
+  text-align: center;
+  font-family: 'Oswald';
 }
 
-h3{
-    font-family: 'Oswald';
+h3 {
+  font-family: 'Oswald';
 }
 
 @font-face {
-    font-family: 'Oswald';
-    src: url('../../assets/fonts/Oswald.ttf');
-  }
+  font-family: 'Oswald';
+  src: url('../../assets/fonts/Oswald.ttf');
+}
