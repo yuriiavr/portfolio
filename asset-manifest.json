@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2790b323.css",
-    "main.js": "/portfolio/static/js/main.8ab7ed41.js",
+    "main.css": "/portfolio/static/css/main.c84be74c.css",
+    "main.js": "/portfolio/static/js/main.73d232ab.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/melomaniac_prev3.png": "/portfolio/static/media/melomaniac_prev3.e9a74704e5edaed725d4.png",
     "static/media/melomaniac_prev2.png": "/portfolio/static/media/melomaniac_prev2.16c29d342c534dbbfc8e.png",
@@ -16,18 +16,18 @@
     "static/media/voicehelper.png": "/portfolio/static/media/voicehelper.6cda370ae8fb6754f5c1.png",
     "static/media/luna.png": "/portfolio/static/media/luna.5cd5e1ad14f79f5fc03b.png",
     "static/media/Oswald.ttf": "/portfolio/static/media/Oswald.7cecd0da606d25b0905d.ttf",
-    "static/media/my_photo.jpg": "/portfolio/static/media/my_photo.e6092806be6d5cf2652a.jpg",
+    "static/media/my_photo.jpg": "/portfolio/static/media/my_photo.a54c488b02258d2643df.jpg",
     "static/media/emailSender_preview.png": "/portfolio/static/media/emailSender_preview.4e661e18303f41e8f8e9.png",
     "static/media/phonebook.jpg": "/portfolio/static/media/phonebook.ad983a8db8e7244b2ae1.jpg",
     "static/media/emailSender_preview2.png": "/portfolio/static/media/emailSender_preview2.d56b22ed3bedfa3b198c.png",
     "static/media/tg.png": "/portfolio/static/media/tg.0999a5124b2591d75c1a.png",
     "index.html": "/portfolio/index.html",
-    "main.2790b323.css.map": "/portfolio/static/css/main.2790b323.css.map",
-    "main.8ab7ed41.js.map": "/portfolio/static/js/main.8ab7ed41.js.map",
+    "main.c84be74c.css.map": "/portfolio/static/css/main.c84be74c.css.map",
+    "main.73d232ab.js.map": "/portfolio/static/js/main.73d232ab.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2790b323.css",
-    "static/js/main.8ab7ed41.js"
+    "static/css/main.c84be74c.css",
+    "static/js/main.73d232ab.js"
   ]
 }
