@@ -5,7 +5,7 @@ import Homepage from './pages/Home/Home';
 import Luna from './components/Projects/ProjectList/ProjectPage/Luna/Luna';
 import EmailSender from './components/Projects/ProjectList/ProjectPage/EmailSender/EmailSender';
 import PasswordManager from './components/Projects/ProjectList/ProjectPage/PasswordManager/PasswordManager';
-import Melomaniac from './components/Projects/ProjectList/ProjectPage/Melomaniac/Melomaniac';
+import Foddies from './components/Projects/ProjectList/ProjectPage/Foddies/Foddies';
 import CV from 'pages/CV/CV';
 
 function App() {
@@ -16,7 +16,7 @@ function App() {
           <Route path='/' element={<Homepage />} />
           <Route path='/projects/luna' element={<Luna />} />
           <Route path='/projects/emailSender' element={<EmailSender />} />
-          <Route path='/projects/melomaniac' element={<Melomaniac />} />
+          <Route path='/projects/foddies' element={<Foddies />} />
           <Route path='/projects/passwordManager' element={<PasswordManager />} />
           <Route path='/cv' element={<CV />} />
         </Route>

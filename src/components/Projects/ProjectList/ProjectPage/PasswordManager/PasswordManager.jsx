@@ -1,4 +1,4 @@
-import { useOutletContext } from 'react-router-dom';
+import { Link,useOutletContext } from 'react-router-dom';
 import React from 'react';
 import css from '../ProjectPage.module.css';
 import Container from '../../../../Container/Container';
@@ -8,6 +8,8 @@ const PasswordManager = () => {
 
   const content = {
     uk: {
+      back: 'Назад',
+      visitWebsite: 'GitHub',
       title: 'Password Manager',
       subtitle: 'Ваше досконале безпечне сховище паролів',
       paragraph1:
@@ -22,6 +24,8 @@ const PasswordManager = () => {
         'Відчуйте спокій, який приносить знання того, що ваше цифрове життя захищене. Password Manager – це не просто інструмент; це ваш особистий супутник кібербезпеки – швидкий, неймовірно зручний та абсолютно безпечний! Скажіть "прощавай" забутим паролям, ризикованим звичкам і "привіт" легкому, захищеному онлайн-життю.',
     },
     en: {
+      back: 'Back',
+      visitWebsite: 'GitHub',
       title: 'Password Manager',
       subtitle: 'Your Perfect Secure Password Vault',
       paragraph1:
@@ -42,7 +46,9 @@ const PasswordManager = () => {
   return (
     <Container>
       <div className={css.cont}>
+        <Link className={css.backbutton} to={'/'}>{text.back}</Link>
         <h2 className={css.title}>{text.title}</h2>
+        <a className={css.visitWebsite} href="https://github.com/yuriiavr/password-saver" target="_blank" rel="noopener noreferrer">{text.visitWebsite}</a>
         <h3 style={{ textAlign: 'center' }}>{text.subtitle}</h3>
         <p>{text.paragraph1}</p>
         <p>{text.paragraph2}</p>

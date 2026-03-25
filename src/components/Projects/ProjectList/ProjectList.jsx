@@ -8,7 +8,7 @@ const ProjectList = () => {
         <Link to={`/projects/emailSender`}>
           <span className={css.title}>Email Sender</span>
           <div className={css.overlay}>
-            <span className={css.overlayText}>React, Node.js</span>
+            <span className={css.overlayText}>React, Node.js, Redis</span>
           </div>
         </Link>
       </li>
@@ -16,7 +16,7 @@ const ProjectList = () => {
         <Link to={`/projects/passwordManager`}>
           <span className={css.title}>Pass.Manager</span>
           <div className={css.overlay}>
-            <span className={css.overlayText}>React Native</span>
+            <span className={css.overlayText}>Electron</span>
           </div>
         </Link>
       </li>
@@ -30,10 +30,10 @@ const ProjectList = () => {
       </li>
 
       <li className={css.myPlayer}>
-        <Link to={`/projects/melomaniac`}>
-          <span className={css.title}>Melomaniac</span>
+        <Link to={`/projects/foddies`}>
+          <span className={css.title}>Foddies</span>
           <div className={css.overlay}>
-            <span className={css.overlayText}>JavaScript, Electron</span>
+            <span className={css.overlayText}>TypeScript, React, Node.js</span>
           </div>
         </Link>
       </li>

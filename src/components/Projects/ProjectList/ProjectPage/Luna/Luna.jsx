@@ -25,7 +25,7 @@ const Luna = () => {
     },
     en: {
       back: 'Back',
-      visitWebsite: 'Visit Website',
+      visitWebsite: 'Website',
       description1: 'LUNA (League Ukrainian News App) is a project I developed to enhance my skills with React and Node.js. The primary goal was to create an application that supports user registration, login, and smooth navigation between pages ',
       reactMark: '(React)',
       description2: ' while managing most of the content through a MongoDB database and backend functionalities like user authentication ',

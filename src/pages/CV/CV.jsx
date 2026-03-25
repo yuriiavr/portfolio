@@ -27,9 +27,9 @@ const CV = () => {
       aboutMe: 'Я Full-Stack розробник з більш ніж 2-річним досвідом у створенні веб- та мобільних додатків. Спеціалізуюся на JavaScript, React, Node.js, Python та React Native. Маю досвід у розробці масштабованих архітектур, створенні API та забезпеченні безшовної інтеграції. Зосереджений на створенні високопродуктивних, зручних для користувача продуктів, які ефективно вирішують реальні завдання.',
       experienceTitle: 'Професійний досвід',
       fullStackDev: 'Full-Stack Розробник',
-      ignisPeriod: 'Квітень 2023 - Листопад 2024',
-      ignisCompany: 'Ignis - Київ, Україна',
-      ignisDesc: 'Оптимізував операції для компанії, що займається медіа-баїнгом, зосередившись на зменшенні витрат, часу та зусиль на рутинні завдання. Моя роль включала автоматизацію різних внутрішніх процесів для підвищення ефективності. Ключові внески включали розробку автоматичної генерації лендингових сторінок на основі шаблонів, створення програми для email-кампаній, яка згодом надавала статистику переглядів, та автоматизацію моніторингу стану сервера. Ці рішення оптимізували робочі процеси та значно покращили продуктивність компанії.',
+      FiretraffPeriod: 'Квітень 2023 - Березень 2026',
+      FiretraffCompany: 'Firetraff - Київ, Україна',
+      FiretraffDesc: 'Оптимізував операції для компанії, що займається медіа-баїнгом, зосередившись на зменшенні витрат, часу та зусиль на рутинні завдання. Моя роль включала автоматизацію різних внутрішніх процесів для підвищення ефективності. Ключові внески включали розробку автоматичної генерації лендингових сторінок на основі шаблонів, створення програми для email-кампаній, яка згодом надавала статистику переглядів, та автоматизацію моніторингу стану сервера. Ці рішення оптимізували робочі процеси та значно покращили продуктивність компанії.',
       frontendDev: 'Frontend Розробник',
       freelancePeriod: 'Жовтень 2022 - Квітень 2023',
       freelanceCompany: 'Фріланс',
@@ -68,9 +68,9 @@ const CV = () => {
       aboutMe: 'I am a Full-Stack Developer with over 2 years of experience in building web and mobile applications. I specialize in JavaScript, React, Node.js, Python and React Native. Skilled in designing scalable architectures, developing APIs, and ensuring seamless integrations, I focus on delivering high-performing, user-friendly products that solve real-world challenges efficiently.',
       experienceTitle: 'Professional Experience',
       fullStackDev: 'Full-Stack Developer',
-      ignisPeriod: 'April 2023 - November 2024',
-      ignisCompany: 'Ignis - Kyiv, Ukraine',
-      ignisDesc: 'Optimized operations for a media buying company by focusing on reducing costs, time, and effort for routine tasks. My role involved automating various internal processes to enhance efficiency. Key contributions included developing automated landing page generation based on templates, creating a program for email campaigns, which later provided view statistics, and automating server health monitoring. These solutions streamlined workflows and significantly improved the company\'s productivity.',
+      FiretraffPeriod: 'April 2023 - May 2026',
+      FiretraffCompany: 'Firetraff - Kyiv, Ukraine',
+      FiretraffDesc: 'Optimized operations for a media buying company by focusing on reducing costs, time, and effort for routine tasks. My role involved automating various internal processes to enhance efficiency. Key contributions included developing automated landing page generation based on templates, creating a program for email campaigns, which later provided view statistics, and automating server health monitoring. These solutions streamlined workflows and significantly improved the company\'s productivity.',
       frontendDev: 'Frontend Developer',
       freelancePeriod: 'October 2022 - April 2023',
       freelanceCompany: 'Freelance',
@@ -135,10 +135,10 @@ const CV = () => {
 
           <div className={css.workDesc}>
             <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between'}}>
-              <h3>{text.fullStackDev}</h3> <span>{text.ignisPeriod}</span>
+              <h3>{text.fullStackDev}</h3> <span>{text.FiretraffPeriod}</span>
             </div>
-            <span><b>Ignis - {text.ignisCompany}</b></span>
-            <span>{text.ignisDesc}</span>
+            <span><b>Firetraff - {text.FiretraffCompany}</b></span>
+            <span>{text.FiretraffDesc}</span>
           </div>
 
           <div className={css.workDesc}>
