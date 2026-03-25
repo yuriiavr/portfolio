@@ -46,7 +46,6 @@ const CV = () => {
       languagesTitle: 'Мови',
       ukrainianLang: 'Українська – Рідна (C2)',
       englishLang: 'Англійська – Вище середнього (B2)',
-      pdfLink: pdfFileUK,
     },
     en: {
       fullName: 'Yurii Avramets',
@@ -87,7 +86,6 @@ const CV = () => {
       languagesTitle: 'Languages',
       ukrainianLang: 'Ukrainian – Native (C2)',
       englishLang: 'English – Upper-intermediate (B2)',
-      pdfLink: pdfFileEN,
     },
   };
 
