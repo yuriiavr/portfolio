@@ -68,7 +68,7 @@ const CV = () => {
       aboutMe: 'I am a Full-Stack Developer with over 2 years of experience in building web and mobile applications. I specialize in JavaScript, React, Node.js, Python and React Native. Skilled in designing scalable architectures, developing APIs, and ensuring seamless integrations, I focus on delivering high-performing, user-friendly products that solve real-world challenges efficiently.',
       experienceTitle: 'Professional Experience',
       fullStackDev: 'Full-Stack Developer',
-      FiretraffPeriod: 'April 2023 - May 2026',
+      FiretraffPeriod: 'April 2023 - March 2026',
       FiretraffCompany: 'Firetraff - Kyiv, Ukraine',
       FiretraffDesc: 'Optimized operations for a media buying company by focusing on reducing costs, time, and effort for routine tasks. My role involved automating various internal processes to enhance efficiency. Key contributions included developing automated landing page generation based on templates, creating a program for email campaigns, which later provided view statistics, and automating server health monitoring. These solutions streamlined workflows and significantly improved the company\'s productivity.',
       frontendDev: 'Frontend Developer',

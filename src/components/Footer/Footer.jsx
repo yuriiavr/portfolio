@@ -6,7 +6,7 @@ const Footer = () => {
         <Container>
             <div className={css.footerCont}>
                 <div className={css.copyCont}>
-                    <span className={css.columnHeader}>© 2021–2024</span>
+                    <span className={css.columnHeader}>© 2021–2026</span>
                     <a className={css.footerlink} href="https://yuriiavr.github.io/portfolio/">Yurii Avramets</a>
                 </div>
                 <div className={css.socialCont}>
@@ -14,7 +14,7 @@ const Footer = () => {
                     <a className={css.footerlink} href="tel:+380931848293">+380931848293</a>
                 </div>
                 <div className={css.iconCont}>
-                    <a className={css.iconlink} href="https://t.me/yu4me"><img src={require('../../assets/images/tg.png')} width='30' alt="" /></a>
+                    <a className={css.iconlink} href="https://t.me/yurii_av"><img src={require('../../assets/images/tg.png')} width='30' alt="" /></a>
                     <a className={css.iconlink} href="https://github.com/yuriiavr"><img src={require('../../assets/images/git.png')} width='30' alt="" /></a>
                 </div>
             </div>
