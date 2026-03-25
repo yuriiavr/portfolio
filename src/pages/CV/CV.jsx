@@ -3,15 +3,12 @@ import Container from '../../components/Container/Container';
 import css from './cv.module.css';
 import React from 'react';
 
-import pdfFileUK from '../../assets/Резюме - Юрій Аврамець.pdf';
-import pdfFileEN from '../../assets/Resume - Yurii Avramets.pdf';
-
 const CV = () => {
   const { currentLang } = useOutletContext();
 
   const content = {
     uk: {
-      downloadPdf: 'Завантажити PDF',
+      fullName: 'Аврамець Юрій',
       position: 'Full-Stack Розробник',
       location: 'Україна, Київ',
       github: 'GitHub',
@@ -52,7 +49,7 @@ const CV = () => {
       pdfLink: pdfFileUK,
     },
     en: {
-      downloadPdf: 'Download PDF',
+      fullName: 'Yurii Avramets',
       position: 'Full-Stack Developer',
       location: 'Ukraine, Kyiv',
       github: 'GitHub',
@@ -102,10 +99,7 @@ const CV = () => {
         <div className={css.sidebar}>
           <img className={css.myPhoto} src={require('../../assets/images/my_photo.jpg')} alt="me" />
           <div>
-            <a href={text.pdfLink} target='_blank' rel="noopener noreferrer" className={css.downloadBtn}>
-            {text.downloadPdf} <img className={css.download} src={require('../../assets/images/download.png')} alt="download" />
-          </a>
-            <h1 className={css.name}>Yurii Avramets</h1>
+            <h1 className={css.name}>{text.fullName}</h1>
             <h2 className={css.position}>{text.position}</h2>
             <span className={css.location}>📍 {text.location}</span>
             <ul className={css.contacts}>
@@ -117,11 +111,11 @@ const CV = () => {
           <div>
             <h2>{text.skillsTitle}</h2>
             <ul className={css.skills}>
-              <li><b className={css.link}>{text.frontend}</b> HTML, CSS, JavaScript, TypeScript, React, Redux, Next.js</li>
+              <li><b className={css.link}>{text.frontend}</b> HTML, CSS, JavaScript, TypeScript, React, Redux, Next.js, Tailwind CSS</li>
               <li><b className={css.link}>{text.backend}</b> Node.js, Express.js, Python</li>
               <li><b className={css.link}>{text.mobile}</b> React Native, Expo, Android/iOS Deployment</li>
               <li><b className={css.link}>{text.database}</b> MongoDB, MySQL, Firebase</li>
-              <li><b className={css.link}>{text.tools}</b> Git, Webpack</li>
+              <li><b className={css.link}>{text.tools}</b> Git, Webpack, Vite</li>
               <li><b className={css.link}>{text.softSkills}</b> Problem-solving, teamwork, adaptability, communication</li>
             </ul>
           </div>
