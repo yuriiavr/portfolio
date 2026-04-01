@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7e8755f9.css",
-    "main.js": "/portfolio/static/js/main.1e0bed71.js",
+    "main.css": "/portfolio/static/css/main.93d1a374.css",
+    "main.js": "/portfolio/static/js/main.03dbe6a7.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/emailSender.png": "/portfolio/static/media/emailSender.352455dda6abd24275be.png",
     "static/media/luna_preview.png": "/portfolio/static/media/luna_preview.0df6d7b70cb53f1156e7.png",
@@ -18,15 +18,17 @@
     "static/media/my_photo.jpg": "/portfolio/static/media/my_photo.0a29e9ab77273bacf37d.jpg",
     "static/media/emailSender_preview2.png": "/portfolio/static/media/emailSender_preview2.13aa0bfb88b52b14911c.png",
     "static/media/emailSender_preview.png": "/portfolio/static/media/emailSender_preview.37f704443e72fd61ed7b.png",
+    "static/media/Geist-Bold.ttf": "/portfolio/static/media/Geist-Bold.81921be5184777b43dd6.ttf",
+    "static/media/Geist-Regular.ttf": "/portfolio/static/media/Geist-Regular.65913759ed5a304b67cb.ttf",
     "static/media/phonebook.jpg": "/portfolio/static/media/phonebook.ad983a8db8e7244b2ae1.jpg",
     "static/media/tg.png": "/portfolio/static/media/tg.0999a5124b2591d75c1a.png",
     "index.html": "/portfolio/index.html",
-    "main.7e8755f9.css.map": "/portfolio/static/css/main.7e8755f9.css.map",
-    "main.1e0bed71.js.map": "/portfolio/static/js/main.1e0bed71.js.map",
+    "main.93d1a374.css.map": "/portfolio/static/css/main.93d1a374.css.map",
+    "main.03dbe6a7.js.map": "/portfolio/static/js/main.03dbe6a7.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e8755f9.css",
-    "static/js/main.1e0bed71.js"
+    "static/css/main.93d1a374.css",
+    "static/js/main.03dbe6a7.js"
   ]
 }
